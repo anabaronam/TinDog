@@ -12,4 +12,4 @@ Features implemented on the wbesite:
 ![alt text](https://github.com/anabaronam/tindog/blob/main/caroussel_tindog.jpg?raw=true)
 
 2. Functional NavBar that redirects the user through the different parts os the website such as Contact, Pricing and Download.
-
+![alt text](https://github.com/anabaronam/tindog/blob/main/tindog_navbar.jpg?raw=true)
