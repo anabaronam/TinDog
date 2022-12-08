@@ -4,7 +4,7 @@ Project Overview:
 
 Tinder mock up website but for dogs, using frameworks such as Bootstrap. 
 
-Tecnhologies used: JavaScirpt, HTML, CSS, Bootstrap V5. 
+Tecnhologies used: JavaScript, HTML, CSS, Bootstrap V5. 
 
 Features implemented on the wbesite:
 
